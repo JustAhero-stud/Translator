@@ -1,0 +1,8 @@
+void main(){
+	float a = 1.0;
+	int b= 2;
+	char ac= a+b;
+	//int bc = 2.01;
+	/* комментарий
+	   блочный */
+}
